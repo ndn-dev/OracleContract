@@ -1,0 +1,8 @@
+### artifacts ###
+**/artifacts/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
