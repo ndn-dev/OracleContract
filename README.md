@@ -65,7 +65,7 @@ contract PriceConsumer {
 
     /**
      * Network: Rinkeby
-     * Address: 0x9326BFA02ADD2366b30bacB125260Af641031331
+     * Address: 0xFdE6B0b00d5662355EC81D9Ba22Fd3Fa0FC65735
      */
     constructor() public {
         proxy = IProxy(0xFdE6B0b00d5662355EC81D9Ba22Fd3Fa0FC65735);
